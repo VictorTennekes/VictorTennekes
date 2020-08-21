@@ -1,5 +1,5 @@
 <p align="center">
-	<img height="300" src="./wolf.png"><br>
+	<img height="300" src="https://github.com/VictorTennekes/VictorTennekes/blob/master/wolf.png"><br>
 	<samp>
 		Who?
 		<br>:wave: Hey! I'm Victor.
